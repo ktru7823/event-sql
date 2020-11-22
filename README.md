@@ -1,2 +1,2 @@
 # event-sql
-Using database interaction code to construct and maintain an SQL database, with GUI to present the data.
+Using database interaction code to construct and maintain a database in SQL, with GUI to present the data.
